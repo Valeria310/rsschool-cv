@@ -14,6 +14,6 @@
  } return arr 
 }
   ```
-6. -
+6. \-
 7. I'm study BSTU
 8. Studied English at school and university
