@@ -3,7 +3,7 @@
     * Email: valeriua.m@yandex.ru
     * [Git](https://github.com/Valeria310)
 3. I want to get new knowlege ang lern **front-end** and **JS**
-4. **HTML**,** CSS**,** Git**
+4. **HTML**, **CSS**, **Git**
 5. 
   ```
   function removeEveryOther(arr){
