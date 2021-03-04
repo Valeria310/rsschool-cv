@@ -65,3 +65,21 @@ pre {
   display: inline-block;
   margin: 0 0 0 -70px;
 }
+.git {
+  width: 150px;
+}
+.rs__logo {
+  width: 60px;
+  height: 60px;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: turquoise;
+}
+.footerr {
+  width: 150px;
+  display: flex;
+  justify-content: center;
+}
