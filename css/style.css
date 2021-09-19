@@ -216,7 +216,7 @@ h4 {
   width: 120px;
   height: 45px;
   padding-left: 45px;
-  background-image: url("/assets/github.svg");
+  background-image: url("../assets/github.svg");
   background-size: 35px;
   background-repeat: no-repeat;
   background-position: left center;
@@ -234,7 +234,7 @@ h4 {
   position: relative;
   width: 86px;
   height: 4rem;
-  background-image: url("/assets/rss.svg");
+  background-image: url("../assets/rss.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left center;
