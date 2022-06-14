@@ -1,0 +1,85 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+img {
+  height: 300px;
+  width: 300px;
+}
+h1 {
+  display: flex;
+  width: 300px;
+  margin-top: 100px;
+}
+section {
+  min-height: 100px;
+  text-align: center;
+}
+.cont li {
+  text-align: left;
+}
+
+details {
+  display: inline-block;
+  border-radius: 4px;
+  width: 300px;
+  margin: 0 auto;
+  height: 50px;
+}
+summary {
+  display: inline-block;
+  font-weight: bold;
+  padding-left: 5px;
+  margin-bottom: 0;
+}
+
+details[open] {
+  width: 300px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+details[open] summary {
+  margin-bottom: 0.5em;
+}
+.contacts {
+  display: inline-block;
+  padding: 5px;
+  margin: 0;
+}
+.cont ul {
+  margin-left: 20px;
+}
+.skills ul {
+  display: inline-block;
+  padding-inline-start: 0;
+}
+.skills li {
+  text-align: left;
+}
+pre {
+  display: inline-block;
+  margin: 0 0 0 -70px;
+}
+.git {
+  width: 150px;
+}
+.rs__logo {
+  width: 60px;
+  height: 60px;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: turquoise;
+}
+.footerr {
+  width: 150px;
+  display: flex;
+  justify-content: center;
+}
